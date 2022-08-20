@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32132f83-74eb-4b09-96d4-870ca34ab506" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../08-Facade/Exercicio-aula/Exercicio-mesa/facadeMesa/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../08-Facade/Exercicio-aula/Exercicio-mesa/facadeMesa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../08-Facade/Exercicio-aula/Exercicio-mesa/facadeMesa/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../08-Facade/Exercicio-aula/Exercicio-mesa/facadeMesa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../08-Facade/Exercicio-aula/Exercicio-mesa/facadeMesa/facadeMesa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../08-Facade/Exercicio-aula/Exercicio-mesa/facadeMesa/src/ApiHotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../08-Facade/Exercicio-aula/Exercicio-mesa/facadeMesa/src/ApiVoos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../08-Facade/Exercicio-aula/Exercicio-mesa/facadeMesa/src/FacadeBusca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../08-Facade/Exercicio-aula/Exercicio-mesa/facadeMesa/src/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../08-Facade/Exercicio-aula/Exercicio-mesa/facadeMesa/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../08-Facade/Exercicio-aula/Exercicio-mesa/facadeMesa/src/Voos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../08-Facade/Exercicio-aula/FacadeAula/FacadeAula.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../08-Facade/Exercicio-aula/FacadeAula/src/ApiCartao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../08-Facade/Exercicio-aula/FacadeAula/src/ApiProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../08-Facade/Exercicio-aula/FacadeAula/src/ApiQuantidade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../08-Facade/Exercicio-aula/FacadeAula/src/Cartao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../08-Facade/Exercicio-aula/FacadeAula/src/FacadeDesconto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../08-Facade/Exercicio-aula/FacadeAula/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../08-Facade/Exercicio-aula/FacadeAula/src/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../09-integradora3/Aula/Aula.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../09-integradora3/Aula/src/FacadeForma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../09-integradora3/Aula/src/FlyweightQuadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../09-integradora3/Aula/src/FlyweightTriangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../09-integradora3/Aula/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../09-integradora3/Aula/src/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../09-integradora3/Aula/src/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10-Logging/Logging/Logging.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10-Logging/Logging/src/Leao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10-Logging/Logging/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10-Logging/aula/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10-Logging/aula/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10-Logging/aula/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10-Logging/aula/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10-Logging/aula/aula.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10-Logging/aula/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mesa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../12-Integradora4/Aula12Integradora.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DS0pjrIIcQNTZh4cbn33Ax85Jv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Program Files (x86)/H2/bin/h2-2.1.212.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="mesa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32132f83-74eb-4b09-96d4-870ca34ab506" name="Changes" comment="" />
+      <created>1660677363510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660677363510</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
