@@ -16,14 +16,14 @@ class MedicamentoServiceTest {
         new    MedicamentoDaoImpl(new ConfigJDBC())
     );
 
-  /*  @Test
+    @Test
     public void salvarMedicamento() throws SQLException {
         Medicamento medicamento = new Medicamento("Ibrupofeno", "Aché", 394,
                 23.0);
         medicamentoService.salvar(medicamento);
         assertTrue(medicamento.getId() != null);
 
-    }*/
+    }
 
     @Test
     public void buscarMedicamento() throws SQLException {

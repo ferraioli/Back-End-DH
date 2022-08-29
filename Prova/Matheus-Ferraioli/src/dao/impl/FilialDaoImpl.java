@@ -3,11 +3,12 @@ package dao.impl;
 import dao.ConfigJDBC;
 import dao.IDao;
 import model.Filial;
+import org.apache.log4j.Logger;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.Statement;
-import java.util.logging.Logger;
+
 
 public class FilialDaoImpl implements IDao<Filial> {
 
@@ -38,7 +39,7 @@ public class FilialDaoImpl implements IDao<Filial> {
         }catch (Exception e){
             e.printStackTrace();
         }
-        log.info("Salvando Filial: "+ filial.toString());
+        log.debug("Salvando Filial: "+ filial.toString());
         return filial;
     }
 }

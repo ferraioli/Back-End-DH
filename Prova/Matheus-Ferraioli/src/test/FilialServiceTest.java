@@ -32,10 +32,10 @@ class FilialServiceTest {
         filialService.salvarFilial(filial4);
         filialService.salvarFilial(filial5);
         assertTrue(filial.getId() != null);
-        assertFalse(filial2.getId() != null);
-        assertFalse(filial3.getId() != null);
-        assertFalse(filial4.getId() != null);
-        assertFalse(filial5.getId() != null);
+        assertTrue(filial2.getId() != null);
+        assertTrue(filial3.getId() != null);
+        assertTrue(filial4.getId() != null);
+        assertTrue(filial5.getId() != null);
 
 
     }

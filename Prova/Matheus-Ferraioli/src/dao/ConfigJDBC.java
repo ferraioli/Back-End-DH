@@ -29,13 +29,16 @@ public class ConfigJDBC {
     }
 
     public Connection conectarBancoDados(){
-        if (connection == null){
-            try {
-                connection = DriverManager.getConnection(dbUrl, nameUser, senhaUsuario);
-            } catch (SQLException e){
-                e.printStackTrace();
-            }
+        Connection connection = null;
+
+        try {
+            Class.forName(jdbcDriver).newInstance();
+            connection = DriverManager.getConnection(dbUrl, nameUser, senhaUsuario);
+        } catch (Exception e) {
+            e.printStackTrace();
         }
+
         return connection;
     }
-}
+    }
+
